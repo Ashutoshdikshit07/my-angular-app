@@ -1,0 +1,20 @@
+.div1{
+    background-color: powderblue;
+    
+    justify-content: center;
+    text-align: center;
+    margin: 200px;
+    border: 1px solid black ;
+    margin-left: 200px;
+    margin-right: 300px;
+  }
+  .block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #4CAF50;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
